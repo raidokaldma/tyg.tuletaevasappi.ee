@@ -1,0 +1,41 @@
+# Tallinna Ühisgümnaasiumi tunniplaanid
+Andmed pärinevad lehelt: https://tyhg.edu.ee/tunniplaan/
+
+Tunniplaanide kalendrisse importimiseks (nt Google Calendar) kasuta URLe:
+- https://tyg.tuletaevasappi.ee/1A
+- https://tyg.tuletaevasappi.ee/1B
+- https://tyg.tuletaevasappi.ee/1C
+- https://tyg.tuletaevasappi.ee/1D
+- https://tyg.tuletaevasappi.ee/2A
+- https://tyg.tuletaevasappi.ee/2B
+- https://tyg.tuletaevasappi.ee/2C
+- https://tyg.tuletaevasappi.ee/3A
+- https://tyg.tuletaevasappi.ee/3B
+- https://tyg.tuletaevasappi.ee/3C
+- https://tyg.tuletaevasappi.ee/3D
+- https://tyg.tuletaevasappi.ee/4A
+- https://tyg.tuletaevasappi.ee/4B
+- https://tyg.tuletaevasappi.ee/5A
+- https://tyg.tuletaevasappi.ee/5B
+- https://tyg.tuletaevasappi.ee/5C
+- https://tyg.tuletaevasappi.ee/5D
+- https://tyg.tuletaevasappi.ee/5E
+- https://tyg.tuletaevasappi.ee/6A
+- https://tyg.tuletaevasappi.ee/6B
+- https://tyg.tuletaevasappi.ee/6C
+- https://tyg.tuletaevasappi.ee/7A
+- https://tyg.tuletaevasappi.ee/7B
+- https://tyg.tuletaevasappi.ee/8S
+- https://tyg.tuletaevasappi.ee/8A
+- https://tyg.tuletaevasappi.ee/8B
+- https://tyg.tuletaevasappi.ee/9A
+- https://tyg.tuletaevasappi.ee/9B
+- https://tyg.tuletaevasappi.ee/9C
+- https://tyg.tuletaevasappi.ee/9D
+- https://tyg.tuletaevasappi.ee/10A
+- https://tyg.tuletaevasappi.ee/10B
+- https://tyg.tuletaevasappi.ee/10C
+- https://tyg.tuletaevasappi.ee/11A
+- https://tyg.tuletaevasappi.ee/11B
+- https://tyg.tuletaevasappi.ee/11C
+- https://tyg.tuletaevasappi.ee/12
