@@ -5,541 +5,541 @@ X-WR-CALNAME:TÜG 5E
 X-WR-TIMEZONE:Europe/Tallinn
 BEGIN:VEVENT
 UID:tri-1-day-0-3-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250901T105000
 DTEND;TZID=Europe/Tallinn:20250901T113500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251020T105000
 SUMMARY:EeK
-DESCRIPTION:Tund: *EeK\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *EeK\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-0-4-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250901T120000
 DTEND;TZID=Europe/Tallinn:20250901T124500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251020T120000
 SUMMARY:Aja
-DESCRIPTION:Tund: *Aja\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *Aja\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-0-5-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250901T125500
 DTEND;TZID=Europe/Tallinn:20250901T134000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251020T125500
 SUMMARY:Kirj
-DESCRIPTION:Tund: *Kirj\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *Kirj\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-0-5-1
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250901T125500
 DTEND;TZID=Europe/Tallinn:20250901T134000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251020T125500
 SUMMARY:E2
-DESCRIPTION:Tund: .E2\nÕpetaja: OdeA\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: .E2\nÕpetaja: OdeA\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:401K
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-0-6-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250901T135000
 DTEND;TZID=Europe/Tallinn:20250901T143500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251020T135000
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-0-7-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250901T144500
 DTEND;TZID=Europe/Tallinn:20250901T153000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251020T144500
 SUMMARY:Liik
-DESCRIPTION:Tund: .Liik\nÕpetaja: Ojas\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: .Liik\nÕpetaja: Ojas\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-0-7-1
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250901T144500
 DTEND;TZID=Europe/Tallinn:20250901T153000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251020T144500
 SUMMARY:Liik
-DESCRIPTION:Tund: Liik\nÕpetaja: Leet\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: Liik\nÕpetaja: Leet\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-1-1-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250902T090000
 DTEND;TZID=Europe/Tallinn:20250902T094500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251021T090000
 SUMMARY:Liik
-DESCRIPTION:Tund: .Liik\nÕpetaja: Ojas\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: .Liik\nÕpetaja: Ojas\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-1-1-1
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250902T090000
 DTEND;TZID=Europe/Tallinn:20250902T094500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251021T090000
 SUMMARY:Liik
-DESCRIPTION:Tund: Liik\nÕpetaja: Leet\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: Liik\nÕpetaja: Leet\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-1-2-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250902T095500
 DTEND;TZID=Europe/Tallinn:20250902T104000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251021T095500
 SUMMARY:Kuns
-DESCRIPTION:Tund: *Kuns\nÕpetaja: Jung\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *Kuns\nÕpetaja: Jung\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:309K
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-1-3-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250902T105000
 DTEND;TZID=Europe/Tallinn:20250902T113500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251021T105000
 SUMMARY:Kuns
-DESCRIPTION:Tund: *Kuns\nÕpetaja: Jung\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *Kuns\nÕpetaja: Jung\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:309K
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-1-3-1
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250902T105000
 DTEND;TZID=Europe/Tallinn:20250902T113500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251021T105000
 SUMMARY:E2
-DESCRIPTION:Tund: .E2\nÕpetaja: OdeA\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: .E2\nÕpetaja: OdeA\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:401K
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-1-4-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250902T120000
 DTEND;TZID=Europe/Tallinn:20250902T124500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251021T120000
 SUMMARY:Kirj
-DESCRIPTION:Tund: *Kirj\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *Kirj\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-1-5-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250902T125500
 DTEND;TZID=Europe/Tallinn:20250902T134000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251021T125500
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-1-6-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250902T135000
 DTEND;TZID=Europe/Tallinn:20250902T143500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251021T135000
 SUMMARY:Lood
-DESCRIPTION:Tund: *Lood\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *Lood\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-2-1-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250903T090000
 DTEND;TZID=Europe/Tallinn:20250903T094500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251022T090000
 SUMMARY:E2
-DESCRIPTION:Tund: .E2\nÕpetaja: OdeA\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: .E2\nÕpetaja: OdeA\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:401K
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-2-2-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250903T095500
 DTEND;TZID=Europe/Tallinn:20250903T104000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251022T095500
 SUMMARY:E2
-DESCRIPTION:Tund: .E2\nÕpetaja: OdeA\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: .E2\nÕpetaja: OdeA\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:401K
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-2-2-1
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250903T095500
 DTEND;TZID=Europe/Tallinn:20250903T104000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251022T095500
 SUMMARY:Arv
-DESCRIPTION:Tund: *Arv\nÕpetaja: Ööbi\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *Arv\nÕpetaja: Ööbi\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:214A
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-2-3-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250903T105000
 DTEND;TZID=Europe/Tallinn:20250903T113500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251022T105000
 SUMMARY:EeK
-DESCRIPTION:Tund: *EeK\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *EeK\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-2-4-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250903T120000
 DTEND;TZID=Europe/Tallinn:20250903T124500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251022T120000
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-2-5-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250903T125500
 DTEND;TZID=Europe/Tallinn:20250903T134000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251022T125500
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-2-6-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250903T135000
 DTEND;TZID=Europe/Tallinn:20250903T143500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251022T135000
 SUMMARY:Inim
-DESCRIPTION:Tund: *Inim\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *Inim\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-3-1-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250904T090000
 DTEND;TZID=Europe/Tallinn:20250904T094500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251023T090000
 SUMMARY:Kt.k
-DESCRIPTION:Tund: .Kt.k\nÕpetaja: Taju\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: .Kt.k\nÕpetaja: Taju\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:003T
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-3-1-1
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250904T090000
 DTEND;TZID=Europe/Tallinn:20250904T094500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251023T090000
 SUMMARY:tehn
-DESCRIPTION:Tund: tehn\nÕpetaja: Puhm\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: tehn\nÕpetaja: Puhm\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:041T
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-3-2-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250904T095500
 DTEND;TZID=Europe/Tallinn:20250904T104000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251023T095500
 SUMMARY:Kt.k
-DESCRIPTION:Tund: .Kt.k\nÕpetaja: Taju\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: .Kt.k\nÕpetaja: Taju\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:003T
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-3-2-1
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250904T095500
 DTEND;TZID=Europe/Tallinn:20250904T104000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251023T095500
 SUMMARY:tehn
-DESCRIPTION:Tund: tehn\nÕpetaja: Puhm\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: tehn\nÕpetaja: Puhm\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:041T
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-3-3-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250904T105000
 DTEND;TZID=Europe/Tallinn:20250904T113500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251023T105000
 SUMMARY:InK1
-DESCRIPTION:Tund: .*InK1\nÕpetaja: Rata\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: .*InK1\nÕpetaja: Rata\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:209I
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-3-3-1
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250904T105000
 DTEND;TZID=Europe/Tallinn:20250904T113500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251023T105000
 SUMMARY:InK2
-DESCRIPTION:Tund: *InK2\nÕpetaja: Raag\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *InK2\nÕpetaja: Raag\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:406A
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-3-3-2
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250904T105000
 DTEND;TZID=Europe/Tallinn:20250904T113500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251023T105000
 SUMMARY:InK3
-DESCRIPTION:Tund: *InK3\nÕpetaja: Kõre\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *InK3\nÕpetaja: Kõre\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:301V
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-3-3-3
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250904T105000
 DTEND;TZID=Europe/Tallinn:20250904T113500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251023T105000
 SUMMARY:InK4
-DESCRIPTION:Tund: *InK4\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *InK4\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-3-3-4
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250904T105000
 DTEND;TZID=Europe/Tallinn:20250904T113500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251023T105000
 SUMMARY:E2
-DESCRIPTION:Tund: .E2\nÕpetaja: OdeA\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: .E2\nÕpetaja: OdeA\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:401K
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-3-4-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250904T120000
 DTEND;TZID=Europe/Tallinn:20250904T124500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251023T120000
 SUMMARY:Lood
-DESCRIPTION:Tund: *Lood\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *Lood\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-3-5-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250904T125500
 DTEND;TZID=Europe/Tallinn:20250904T134000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251023T125500
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-3-6-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250904T135000
 DTEND;TZID=Europe/Tallinn:20250904T143500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251023T135000
 SUMMARY:Muus
-DESCRIPTION:Tund: *Muus\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *Muus\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-4-4-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250905T120000
 DTEND;TZID=Europe/Tallinn:20250905T124500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251024T120000
 SUMMARY:EeK
-DESCRIPTION:Tund: *EeK\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *EeK\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-4-5-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250905T125500
 DTEND;TZID=Europe/Tallinn:20250905T134000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251024T125500
 SUMMARY:InK1
-DESCRIPTION:Tund: .*InK1\nÕpetaja: Rata\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: .*InK1\nÕpetaja: Rata\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:209I
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-4-5-1
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250905T125500
 DTEND;TZID=Europe/Tallinn:20250905T134000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251024T125500
 SUMMARY:InK2
-DESCRIPTION:Tund: *InK2\nÕpetaja: Raag\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *InK2\nÕpetaja: Raag\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:405A
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-4-5-2
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250905T125500
 DTEND;TZID=Europe/Tallinn:20250905T134000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251024T125500
 SUMMARY:InK3
-DESCRIPTION:Tund: *InK3\nÕpetaja: Kõre\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *InK3\nÕpetaja: Kõre\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:301V
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-4-5-3
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250905T125500
 DTEND;TZID=Europe/Tallinn:20250905T134000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251024T125500
 SUMMARY:InK4
-DESCRIPTION:Tund: *InK4\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *InK4\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-4-6-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250905T135000
 DTEND;TZID=Europe/Tallinn:20250905T143500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251024T135000
 SUMMARY:InK1
-DESCRIPTION:Tund: .*InK1\nÕpetaja: Rata\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: .*InK1\nÕpetaja: Rata\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:209I
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-4-6-1
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250905T135000
 DTEND;TZID=Europe/Tallinn:20250905T143500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251024T135000
 SUMMARY:InK2
-DESCRIPTION:Tund: *InK2\nÕpetaja: Raag\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *InK2\nÕpetaja: Raag\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:405A
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-4-6-2
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250905T135000
 DTEND;TZID=Europe/Tallinn:20250905T143500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251024T135000
 SUMMARY:InK3
-DESCRIPTION:Tund: *InK3\nÕpetaja: Kõre\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *InK3\nÕpetaja: Kõre\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:301V
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-4-6-3
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250905T135000
 DTEND;TZID=Europe/Tallinn:20250905T143500
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251024T135000
 SUMMARY:InK4
-DESCRIPTION:Tund: *InK4\nÕpetaja: Sepp\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: *InK4\nÕpetaja: Sepp\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:203S
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-4-7-0
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250905T144500
 DTEND;TZID=Europe/Tallinn:20250905T153000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251024T144500
 SUMMARY:Liik
-DESCRIPTION:Tund: .Liik\nÕpetaja: Ojas\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: .Liik\nÕpetaja: Ojas\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-1-day-4-7-1
-DTSTAMP;TZID=Europe/Tallinn:20250922T164648
+DTSTAMP;TZID=Europe/Tallinn:20250926T162800
 DTSTART;TZID=Europe/Tallinn:20250905T144500
 DTEND;TZID=Europe/Tallinn:20250905T153000
 RRULE:FREQ=WEEKLY;UNTIL=20251128T235959
 EXDATE;TZID=Europe/Tallinn:20251024T144500
 SUMMARY:Liik
-DESCRIPTION:Tund: Liik\nÕpetaja: Leet\nInfo seisuga: 17.9.2025, 14:23:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
+DESCRIPTION:Tund: Liik\nÕpetaja: Leet\nInfo seisuga: 26.9.2025, 16:28:00\nhttps://tyhg.edu.ee/tunniplaan/index_5E.htm
 LOCATION:
 URL:https://tyhg.edu.ee/tunniplaan/index_5E.htm
 END:VEVENT
