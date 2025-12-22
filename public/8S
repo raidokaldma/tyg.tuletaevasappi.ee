@@ -5,121 +5,121 @@ X-WR-CALNAME:TÜG 8S
 X-WR-TIMEZONE:Europe/Tallinn
 BEGIN:VEVENT
 UID:tri-2-day-0-3-0
-DTSTAMP;TZID=Europe/Tallinn:20251202T110100
+DTSTAMP;TZID=Europe/Tallinn:20251219T105500
 DTSTART;TZID=Europe/Tallinn:20251201T105000
 DTEND;TZID=Europe/Tallinn:20251201T113500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251222T105000,20251229T105000,20260223T105000
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Egle\nInfo seisuga: 2.12.2025, 11:01:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Egle\nInfo seisuga: 19.12.2025, 10:55:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:303M
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
+UID:tri-2-day-0-4-0
+DTSTAMP;TZID=Europe/Tallinn:20251219T105500
+DTSTART;TZID=Europe/Tallinn:20251201T120000
+DTEND;TZID=Europe/Tallinn:20251201T124500
+RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
+EXDATE;TZID=Europe/Tallinn:20251222T120000,20251229T120000,20260223T120000
+SUMMARY:EeK
+DESCRIPTION:Tund: EeK\nÕpetaja: Tatr\nInfo seisuga: 19.12.2025, 10:55:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+LOCATION:101E
+URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
+END:VEVENT
+BEGIN:VEVENT
 UID:tri-2-day-0-5-0
-DTSTAMP;TZID=Europe/Tallinn:20251202T110100
+DTSTAMP;TZID=Europe/Tallinn:20251219T105500
 DTSTART;TZID=Europe/Tallinn:20251201T125500
 DTEND;TZID=Europe/Tallinn:20251201T134000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251222T125500,20251229T125500,20260223T125500
 SUMMARY:Aja
-DESCRIPTION:Tund: *Aja\nÕpetaja: Tiik\nInfo seisuga: 2.12.2025, 11:01:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: *Aja\nÕpetaja: Tiik\nInfo seisuga: 19.12.2025, 10:55:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:205A
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:tri-2-day-1-3-0
-DTSTAMP;TZID=Europe/Tallinn:20251202T110100
-DTSTART;TZID=Europe/Tallinn:20251202T105000
-DTEND;TZID=Europe/Tallinn:20251202T113500
+UID:tri-2-day-1-4-0
+DTSTAMP;TZID=Europe/Tallinn:20251219T105500
+DTSTART;TZID=Europe/Tallinn:20251202T120000
+DTEND;TZID=Europe/Tallinn:20251202T124500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
-EXDATE;TZID=Europe/Tallinn:20251223T105000,20251230T105000,20260224T105000
-SUMMARY:EeK
-DESCRIPTION:Tund: EeK\nÕpetaja: Tatr\nInfo seisuga: 2.12.2025, 11:01:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
-LOCATION:101E
+EXDATE;TZID=Europe/Tallinn:20251223T120000,20251230T120000,20260224T120000
+SUMMARY:Geo
+DESCRIPTION:Tund: Geo\nÕpetaja: SooE\nInfo seisuga: 19.12.2025, 10:55:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+LOCATION:206G
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-1-5-0
-DTSTAMP;TZID=Europe/Tallinn:20251202T110100
+DTSTAMP;TZID=Europe/Tallinn:20251219T105500
 DTSTART;TZID=Europe/Tallinn:20251202T125500
 DTEND;TZID=Europe/Tallinn:20251202T134000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251223T125500,20251230T125500,20260224T125500
 SUMMARY:Keem
-DESCRIPTION:Tund: *Keem\nÕpetaja: Saag\nInfo seisuga: 2.12.2025, 11:01:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: *Keem\nÕpetaja: Saag\nInfo seisuga: 19.12.2025, 10:55:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:207K
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-1-6-0
-DTSTAMP;TZID=Europe/Tallinn:20251202T110100
+DTSTAMP;TZID=Europe/Tallinn:20251219T105500
 DTSTART;TZID=Europe/Tallinn:20251202T135000
 DTEND;TZID=Europe/Tallinn:20251202T143500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251223T135000,20251230T135000,20260224T135000
 SUMMARY:Bio
-DESCRIPTION:Tund: *Bio\nÕpetaja: Root\nInfo seisuga: 2.12.2025, 11:01:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: *Bio\nÕpetaja: Root\nInfo seisuga: 19.12.2025, 10:55:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:105B
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-2-3-0
-DTSTAMP;TZID=Europe/Tallinn:20251202T110100
+DTSTAMP;TZID=Europe/Tallinn:20251219T105500
 DTSTART;TZID=Europe/Tallinn:20251203T105000
 DTEND;TZID=Europe/Tallinn:20251203T113500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251224T105000,20251231T105000,20260225T105000
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Egle\nInfo seisuga: 2.12.2025, 11:01:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Egle\nInfo seisuga: 19.12.2025, 10:55:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:303M
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:tri-2-day-2-5-0
-DTSTAMP;TZID=Europe/Tallinn:20251202T110100
-DTSTART;TZID=Europe/Tallinn:20251203T125500
-DTEND;TZID=Europe/Tallinn:20251203T134000
+UID:tri-2-day-2-4-0
+DTSTAMP;TZID=Europe/Tallinn:20251219T105500
+DTSTART;TZID=Europe/Tallinn:20251203T120000
+DTEND;TZID=Europe/Tallinn:20251203T124500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
-EXDATE;TZID=Europe/Tallinn:20251224T125500,20251231T125500,20260225T125500
+EXDATE;TZID=Europe/Tallinn:20251224T120000,20251231T120000,20260225T120000
 SUMMARY:EeK
-DESCRIPTION:Tund: EeK\nÕpetaja: Tatr\nInfo seisuga: 2.12.2025, 11:01:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
-LOCATION:110
+DESCRIPTION:Tund: EeK\nÕpetaja: Tatr\nInfo seisuga: 19.12.2025, 10:55:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+LOCATION:101E
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-3-5-0
-DTSTAMP;TZID=Europe/Tallinn:20251202T110100
+DTSTAMP;TZID=Europe/Tallinn:20251219T105500
 DTSTART;TZID=Europe/Tallinn:20251204T125500
 DTEND;TZID=Europe/Tallinn:20251204T134000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251225T125500,20260101T125500,20260226T125500
 SUMMARY:Füü
-DESCRIPTION:Tund: Füü\nÕpetaja: Tart\nInfo seisuga: 2.12.2025, 11:01:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: Füü\nÕpetaja: Tart\nInfo seisuga: 19.12.2025, 10:55:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:107I
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
-UID:tri-2-day-3-6-0
-DTSTAMP;TZID=Europe/Tallinn:20251202T110100
-DTSTART;TZID=Europe/Tallinn:20251204T135000
-DTEND;TZID=Europe/Tallinn:20251204T143500
+UID:tri-2-day-4-5-0
+DTSTAMP;TZID=Europe/Tallinn:20251219T105500
+DTSTART;TZID=Europe/Tallinn:20251205T125500
+DTEND;TZID=Europe/Tallinn:20251205T134000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
-EXDATE;TZID=Europe/Tallinn:20251225T135000,20260101T135000,20260226T135000
-SUMMARY:Geo
-DESCRIPTION:Tund: Geo\nÕpetaja: SooE\nInfo seisuga: 2.12.2025, 11:01:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
-LOCATION:206G
-URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:tri-2-day-4-4-0
-DTSTAMP;TZID=Europe/Tallinn:20251202T110100
-DTSTART;TZID=Europe/Tallinn:20251205T120000
-DTEND;TZID=Europe/Tallinn:20251205T124500
-RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
-EXDATE;TZID=Europe/Tallinn:20251226T120000,20260102T120000,20260227T120000
+EXDATE;TZID=Europe/Tallinn:20251226T125500,20260102T125500,20260227T125500
 SUMMARY:SoK
-DESCRIPTION:Tund: *SoK\nÕpetaja: Männ\nInfo seisuga: 2.12.2025, 11:01:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: *SoK\nÕpetaja: Männ\nInfo seisuga: 19.12.2025, 10:55:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:213A
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
