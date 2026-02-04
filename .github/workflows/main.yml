@@ -1,0 +1,103 @@
+name: Update calendar events
+on:
+  workflow_dispatch:
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+      - name: Checkout raidokaldma/tyhg-timetable-calendar-import
+        uses: actions/checkout@v4
+        with:
+          repository: raidokaldma/tyhg-timetable-calendar-import
+          path: tyhg-timetable-calendar-import
+      - name: Install raidokaldma/tyhg-timetable-calendar-import dependencies
+        run: |
+          cd tyhg-timetable-calendar-import
+          npm i
+      - name: Update 1A
+        run: node tyhg-timetable-calendar-import/src/app.ts 1A > $GITHUB_WORKSPACE/public/1A
+      - name: Update 1B
+        run: node tyhg-timetable-calendar-import/src/app.ts 1B > $GITHUB_WORKSPACE/public/1B
+      - name: Update 1C
+        run: node tyhg-timetable-calendar-import/src/app.ts 1C > $GITHUB_WORKSPACE/public/1C
+      - name: Update 1D
+        run: node tyhg-timetable-calendar-import/src/app.ts 1D > $GITHUB_WORKSPACE/public/1D
+      - name: Update 2A
+        run: node tyhg-timetable-calendar-import/src/app.ts 2A > $GITHUB_WORKSPACE/public/2A
+      - name: Update 2B
+        run: node tyhg-timetable-calendar-import/src/app.ts 2B > $GITHUB_WORKSPACE/public/2B
+      - name: Update 2C
+        run: node tyhg-timetable-calendar-import/src/app.ts 2C > $GITHUB_WORKSPACE/public/2C
+      - name: Update 3A
+        run: node tyhg-timetable-calendar-import/src/app.ts 3A > $GITHUB_WORKSPACE/public/3A
+      - name: Update 3B
+        run: node tyhg-timetable-calendar-import/src/app.ts 3B > $GITHUB_WORKSPACE/public/3B
+      - name: Update 3C
+        run: node tyhg-timetable-calendar-import/src/app.ts 3C > $GITHUB_WORKSPACE/public/3C
+      - name: Update 3D
+        run: node tyhg-timetable-calendar-import/src/app.ts 3D > $GITHUB_WORKSPACE/public/3D
+      - name: Update 4A
+        run: node tyhg-timetable-calendar-import/src/app.ts 4A > $GITHUB_WORKSPACE/public/4A
+      - name: Update 4B
+        run: node tyhg-timetable-calendar-import/src/app.ts 4B > $GITHUB_WORKSPACE/public/4B
+      - name: Update 5A
+        run: node tyhg-timetable-calendar-import/src/app.ts 5A > $GITHUB_WORKSPACE/public/5A
+      - name: Update 5B
+        run: node tyhg-timetable-calendar-import/src/app.ts 5B > $GITHUB_WORKSPACE/public/5B
+      - name: Update 5C
+        run: node tyhg-timetable-calendar-import/src/app.ts 5C > $GITHUB_WORKSPACE/public/5C
+      - name: Update 5D
+        run: node tyhg-timetable-calendar-import/src/app.ts 5D > $GITHUB_WORKSPACE/public/5D
+      - name: Update 5E
+        run: node tyhg-timetable-calendar-import/src/app.ts 5E > $GITHUB_WORKSPACE/public/5E
+      - name: Update 6A
+        run: node tyhg-timetable-calendar-import/src/app.ts 6A > $GITHUB_WORKSPACE/public/6A
+      - name: Update 6B
+        run: node tyhg-timetable-calendar-import/src/app.ts 6B > $GITHUB_WORKSPACE/public/6B
+      - name: Update 6C
+        run: node tyhg-timetable-calendar-import/src/app.ts 6C > $GITHUB_WORKSPACE/public/6C
+      - name: Update 7A
+        run: node tyhg-timetable-calendar-import/src/app.ts 7A > $GITHUB_WORKSPACE/public/7A
+      - name: Update 7B
+        run: node tyhg-timetable-calendar-import/src/app.ts 7B > $GITHUB_WORKSPACE/public/7B
+      - name: Update 8S
+        run: node tyhg-timetable-calendar-import/src/app.ts 8S > $GITHUB_WORKSPACE/public/8S
+      - name: Update 8A
+        run: node tyhg-timetable-calendar-import/src/app.ts 8A > $GITHUB_WORKSPACE/public/8A
+      - name: Update 8B
+        run: node tyhg-timetable-calendar-import/src/app.ts 8B > $GITHUB_WORKSPACE/public/8B
+      - name: Update 9A
+        run: node tyhg-timetable-calendar-import/src/app.ts 9A > $GITHUB_WORKSPACE/public/9A
+      - name: Update 9B
+        run: node tyhg-timetable-calendar-import/src/app.ts 9B > $GITHUB_WORKSPACE/public/9B
+      - name: Update 9C
+        run: node tyhg-timetable-calendar-import/src/app.ts 9C > $GITHUB_WORKSPACE/public/9C
+      - name: Update 9D
+        run: node tyhg-timetable-calendar-import/src/app.ts 9D > $GITHUB_WORKSPACE/public/9D
+      - name: Update 10A
+        run: node tyhg-timetable-calendar-import/src/app.ts 10A > $GITHUB_WORKSPACE/public/10A
+      - name: Update 10B
+        run: node tyhg-timetable-calendar-import/src/app.ts 10B > $GITHUB_WORKSPACE/public/10B
+      - name: Update 10C
+        run: node tyhg-timetable-calendar-import/src/app.ts 10C > $GITHUB_WORKSPACE/public/10C
+      - name: Update 11A
+        run: node tyhg-timetable-calendar-import/src/app.ts 11A > $GITHUB_WORKSPACE/public/11A
+      - name: Update 11B
+        run: node tyhg-timetable-calendar-import/src/app.ts 11B > $GITHUB_WORKSPACE/public/11B
+      - name: Update 11C
+        run: node tyhg-timetable-calendar-import/src/app.ts 11C > $GITHUB_WORKSPACE/public/11C
+      - name: Update 12
+        run: node tyhg-timetable-calendar-import/src/app.ts 12 > $GITHUB_WORKSPACE/public/12
+      - name: Git commit, push
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
+          git add public
+          git commit -m "Automated update"
+          git push origin main
