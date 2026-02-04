@@ -5,385 +5,385 @@ X-WR-CALNAME:TÜG 2B
 X-WR-TIMEZONE:Europe/Tallinn
 BEGIN:VEVENT
 UID:tri-2-day-0-0-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251201T080000
 DTEND;TZID=Europe/Tallinn:20251201T084500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251222T080000,20251229T080000,20260223T080000
 SUMMARY:EeK
-DESCRIPTION:Tund: *EeK\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *EeK\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M103
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-0-0-1
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251201T080000
 DTEND;TZID=Europe/Tallinn:20251201T084500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251222T080000,20251229T080000,20260223T080000
 SUMMARY:Keel
-DESCRIPTION:Tund: .Keel\nÕpetaja: OdeA\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: .Keel\nÕpetaja: OdeA\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:401K
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-0-1-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251201T090000
 DTEND;TZID=Europe/Tallinn:20251201T094500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251222T090000,20251229T090000,20260223T090000
 SUMMARY:EeK
-DESCRIPTION:Tund: *EeK\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *EeK\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M103
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-0-2-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251201T095500
 DTEND;TZID=Europe/Tallinn:20251201T104000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251222T095500,20251229T095500,20260223T095500
 SUMMARY:InK2
-DESCRIPTION:Tund: .*InK2\nÕpetaja: Tam-\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: .*InK2\nÕpetaja: Tam-\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:411A
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-0-2-1
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251201T095500
 DTEND;TZID=Europe/Tallinn:20251201T104000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251222T095500,20251229T095500,20260223T095500
 SUMMARY:InK1
-DESCRIPTION:Tund: *InK1\nÕpetaja: Lind\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *InK1\nÕpetaja: Lind\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:406A
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-0-3-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251201T110500
 DTEND;TZID=Europe/Tallinn:20251201T115000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251222T110500,20251229T110500,20260223T110500
 SUMMARY:Inim
-DESCRIPTION:Tund: *Inim\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *Inim\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M103
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-0-4-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251201T121500
 DTEND;TZID=Europe/Tallinn:20251201T130000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251222T121500,20251229T121500,20260223T121500
 SUMMARY:Kuns
-DESCRIPTION:Tund: *Kuns\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *Kuns\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M103
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-1-0-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251202T080000
 DTEND;TZID=Europe/Tallinn:20251202T084500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251223T080000,20251230T080000,20260224T080000
 SUMMARY:MKoo
-DESCRIPTION:Tund: .*MKoo\nÕpetaja: RIlv\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: .*MKoo\nÕpetaja: RIlv\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:230A
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-1-1-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251202T090000
 DTEND;TZID=Europe/Tallinn:20251202T094500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251223T090000,20251230T090000,20260224T090000
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M103
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-1-2-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251202T095500
 DTEND;TZID=Europe/Tallinn:20251202T104000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251223T095500,20251230T095500,20260224T095500
 SUMMARY:Tant
-DESCRIPTION:Tund: Tant\nÕpetaja: Kapp\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: Tant\nÕpetaja: Kapp\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:230A
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-1-3-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251202T110500
 DTEND;TZID=Europe/Tallinn:20251202T115000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251223T110500,20251230T110500,20260224T110500
 SUMMARY:Lood
-DESCRIPTION:Tund: *Lood\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *Lood\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M103
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-1-4-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251202T121500
 DTEND;TZID=Europe/Tallinn:20251202T130000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251223T121500,20251230T121500,20260224T121500
 SUMMARY:Digi
-DESCRIPTION:Tund: *Digi\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *Digi\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:405A
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-1-5-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251202T131000
 DTEND;TZID=Europe/Tallinn:20251202T135500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251223T131000,20251230T131000,20260224T131000
 SUMMARY:Tööõ
-DESCRIPTION:Tund: *Tööõ\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *Tööõ\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M103
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-1-6-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251202T140500
 DTEND;TZID=Europe/Tallinn:20251202T145000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251223T140500,20251230T140500,20260224T140500
 SUMMARY:Õpia
-DESCRIPTION:Tund: .Õpia\nÕpetaja: Lees\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: .Õpia\nÕpetaja: Lees\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M204
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-2-1-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251203T090000
 DTEND;TZID=Europe/Tallinn:20251203T094500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251224T090000,20251231T090000,20260225T090000
 SUMMARY:EeK
-DESCRIPTION:Tund: *EeK\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *EeK\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M103
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-2-2-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251203T095500
 DTEND;TZID=Europe/Tallinn:20251203T104000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251224T095500,20251231T095500,20260225T095500
 SUMMARY:EeK
-DESCRIPTION:Tund: *EeK\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *EeK\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M103
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-2-2-1
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251203T095500
 DTEND;TZID=Europe/Tallinn:20251203T104000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251224T095500,20251231T095500,20260225T095500
 SUMMARY:Keel
-DESCRIPTION:Tund: .Keel\nÕpetaja: OdeA\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: .Keel\nÕpetaja: OdeA\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:401K
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-2-3-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251203T110500
 DTEND;TZID=Europe/Tallinn:20251203T115000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251224T110500,20251231T110500,20260225T110500
 SUMMARY:Liik
-DESCRIPTION:Tund: *Liik\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *Liik\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-2-4-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251203T121500
 DTEND;TZID=Europe/Tallinn:20251203T130000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251224T121500,20251231T121500,20260225T121500
 SUMMARY:Muus
-DESCRIPTION:Tund: *Muus\nÕpetaja: RIlv\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *Muus\nÕpetaja: RIlv\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:405A
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-2-5-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251203T131000
 DTEND;TZID=Europe/Tallinn:20251203T135500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251224T131000,20251231T131000,20260225T131000
 SUMMARY:Digi
-DESCRIPTION:Tund: *Digi\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *Digi\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:405A
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-2-6-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251203T140500
 DTEND;TZID=Europe/Tallinn:20251203T145000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251224T140500,20251231T140500,20260225T140500
 SUMMARY:ku.r
-DESCRIPTION:Tund: .*ku.r\nÕpetaja: Jung\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: .*ku.r\nÕpetaja: Jung\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:309K
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-2-6-1
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251203T140500
 DTEND;TZID=Europe/Tallinn:20251203T145000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251224T140500,20251231T140500,20260225T140500
 SUMMARY:Õpia
-DESCRIPTION:Tund: .Õpia\nÕpetaja: Lees\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: .Õpia\nÕpetaja: Lees\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M204
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-2-7-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251203T150000
 DTEND;TZID=Europe/Tallinn:20251203T154500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251224T150000,20251231T150000,20260225T150000
 SUMMARY:ku.r
-DESCRIPTION:Tund: .*ku.r\nÕpetaja: Jung\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: .*ku.r\nÕpetaja: Jung\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:309K
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-3-0-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251204T080000
 DTEND;TZID=Europe/Tallinn:20251204T084500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251225T080000,20260101T080000,20260226T080000
 SUMMARY:MKoo
-DESCRIPTION:Tund: .*MKoo\nÕpetaja: RIlv\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: .*MKoo\nÕpetaja: RIlv\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-3-1-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251204T090000
 DTEND;TZID=Europe/Tallinn:20251204T094500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251225T090000,20260101T090000,20260226T090000
 SUMMARY:EeK
-DESCRIPTION:Tund: *EeK\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *EeK\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M103
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-3-2-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251204T095500
 DTEND;TZID=Europe/Tallinn:20251204T104000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251225T095500,20260101T095500,20260226T095500
 SUMMARY:Muus
-DESCRIPTION:Tund: *Muus\nÕpetaja: RIlv\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *Muus\nÕpetaja: RIlv\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:405A
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-3-3-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251204T110500
 DTEND;TZID=Europe/Tallinn:20251204T115000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251225T110500,20260101T110500,20260226T110500
 SUMMARY:Liik
-DESCRIPTION:Tund: *Liik\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *Liik\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-3-4-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251204T121500
 DTEND;TZID=Europe/Tallinn:20251204T130000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251225T121500,20260101T121500,20260226T121500
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M103
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-4-1-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251205T090000
 DTEND;TZID=Europe/Tallinn:20251205T094500
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251226T090000,20260102T090000,20260227T090000
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M103
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-4-2-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251205T095500
 DTEND;TZID=Europe/Tallinn:20251205T104000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251226T095500,20260102T095500,20260227T095500
 SUMMARY:Liik
-DESCRIPTION:Tund: *Liik\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *Liik\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:044K
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-4-3-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251205T110500
 DTEND;TZID=Europe/Tallinn:20251205T115000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251226T110500,20260102T110500,20260227T110500
 SUMMARY:EeK
-DESCRIPTION:Tund: *EeK\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *EeK\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M103
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-2-day-4-4-0
-DTSTAMP;TZID=Europe/Tallinn:20260127T153000
+DTSTAMP;TZID=Europe/Tallinn:20260130T151000
 DTSTART;TZID=Europe/Tallinn:20251205T121500
 DTEND;TZID=Europe/Tallinn:20251205T130000
 RRULE:FREQ=WEEKLY;UNTIL=20260306T235959
 EXDATE;TZID=Europe/Tallinn:20251226T121500,20260102T121500,20260227T121500
 SUMMARY:Tööõ
-DESCRIPTION:Tund: *Tööõ\nÕpetaja: Käär\nInfo seisuga: 27.1.2026, 15:30:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
+DESCRIPTION:Tund: *Tööõ\nÕpetaja: Käär\nInfo seisuga: 30.1.2026, 15:10:00\nhttps://tyhg.edu.ee/tunniplaan/index_2B.htm
 LOCATION:M103
 URL:https://tyhg.edu.ee/tunniplaan/index_2B.htm
 END:VEVENT
