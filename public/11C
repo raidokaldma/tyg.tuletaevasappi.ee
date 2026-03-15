@@ -5,565 +5,565 @@ X-WR-CALNAME:TÜG 11C
 X-WR-TIMEZONE:Europe/Tallinn
 BEGIN:VEVENT
 UID:tri-3-day-0-1-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260309T090000
 DTEND;TZID=Europe/Tallinn:20260309T094500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260413T090000
 SUMMARY:Muus
-DESCRIPTION:Tund: Muus\nÕpetaja: Aade\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: Muus\nÕpetaja: Aade\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:202M
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-0-2-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260309T095500
 DTEND;TZID=Europe/Tallinn:20260309T104000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260413T095500
 SUMMARY:Bio
-DESCRIPTION:Tund: Bio\nÕpetaja: Järv\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: Bio\nÕpetaja: Järv\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:105B
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-0-3-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260309T105000
 DTEND;TZID=Europe/Tallinn:20260309T113500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260413T105000
 SUMMARY:Keem
-DESCRIPTION:Tund: *Keem\nÕpetaja: Saag\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *Keem\nÕpetaja: Saag\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:207K
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-0-4-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260309T120000
 DTEND;TZID=Europe/Tallinn:20260309T124500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260413T120000
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Meig\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Meig\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:304M
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-0-5-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260309T131000
 DTEND;TZID=Europe/Tallinn:20260309T135500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260413T131000
 SUMMARY:EeK
-DESCRIPTION:Tund: EeK\nÕpetaja: Lõhm\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: EeK\nÕpetaja: Lõhm\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:102E
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-0-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260310T080000
 DTEND;TZID=Europe/Tallinn:20260310T084500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T080000
 SUMMARY:SaK
-DESCRIPTION:Tund: .*SaK\nÕpetaja: Popo\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: .*SaK\nÕpetaja: Popo\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:109V
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-0-1
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260310T080000
 DTEND;TZID=Europe/Tallinn:20260310T084500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T080000
 SUMMARY:VeK
-DESCRIPTION:Tund: *VeK\nÕpetaja: Vile\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *VeK\nÕpetaja: Vile\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:108V
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-1-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260310T090000
 DTEND;TZID=Europe/Tallinn:20260310T094500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T090000
 SUMMARY:SaK
-DESCRIPTION:Tund: .*SaK\nÕpetaja: Popo\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: .*SaK\nÕpetaja: Popo\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:109V
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-1-1
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260310T090000
 DTEND;TZID=Europe/Tallinn:20260310T094500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T090000
 SUMMARY:VeK
-DESCRIPTION:Tund: *VeK\nÕpetaja: Vile\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *VeK\nÕpetaja: Vile\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:108V
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-2-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260310T095500
 DTEND;TZID=Europe/Tallinn:20260310T104000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T095500
 SUMMARY:Aja
-DESCRIPTION:Tund: *Aja\nÕpetaja: Vent\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *Aja\nÕpetaja: Vent\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:204A
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-3-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260310T105000
 DTEND;TZID=Europe/Tallinn:20260310T113500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T105000
 SUMMARY:Uuri
-DESCRIPTION:Tund: Uuri\nÕpetaja: Järv\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: Uuri\nÕpetaja: Järv\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:304M
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-4-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260310T120000
 DTEND;TZID=Europe/Tallinn:20260310T124500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T120000
 SUMMARY:Füü
-DESCRIPTION:Tund: *Füü\nÕpetaja: Rand\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *Füü\nÕpetaja: Rand\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:307F
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-5-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260310T131000
 DTEND;TZID=Europe/Tallinn:20260310T135500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T131000
 SUMMARY:EeK
-DESCRIPTION:Tund: EeK\nÕpetaja: Lõhm\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: EeK\nÕpetaja: Lõhm\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:102E
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-6-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260310T140500
 DTEND;TZID=Europe/Tallinn:20260310T145000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T140500
 SUMMARY:InK
-DESCRIPTION:Tund: *InK\nÕpetaja: Rata\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *InK\nÕpetaja: Rata\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:209I
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-7-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260310T150000
 DTEND;TZID=Europe/Tallinn:20260310T154500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T150000
 SUMMARY:Koor
-DESCRIPTION:Tund: .Koor\nÕpetaja: Aade\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: .Koor\nÕpetaja: Aade\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:230A
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-7-1
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260310T150000
 DTEND;TZID=Europe/Tallinn:20260310T154500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T150000
 SUMMARY:Koor
-DESCRIPTION:Tund: Koor\nÕpetaja: OjaE\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: Koor\nÕpetaja: OjaE\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:202M
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-8-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260310T155500
 DTEND;TZID=Europe/Tallinn:20260310T164000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T155500
 SUMMARY:Koor
-DESCRIPTION:Tund: .*Koor\nÕpetaja: Aade\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: .*Koor\nÕpetaja: Aade\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:230A
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-8-1
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260310T155500
 DTEND;TZID=Europe/Tallinn:20260310T164000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T155500
 SUMMARY:Koor
-DESCRIPTION:Tund: *Koor\nÕpetaja: OjaE\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *Koor\nÕpetaja: OjaE\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:202M
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-2-2-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260311T095500
 DTEND;TZID=Europe/Tallinn:20260311T104000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260415T095500
 SUMMARY:Bio
-DESCRIPTION:Tund: Bio\nÕpetaja: Järv\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: Bio\nÕpetaja: Järv\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:202M
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-2-3-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260311T105000
 DTEND;TZID=Europe/Tallinn:20260311T113500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260415T105000
 SUMMARY:Geo
-DESCRIPTION:Tund: *Geo\nÕpetaja: SooE\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *Geo\nÕpetaja: SooE\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:206G
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-2-4-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260311T120000
 DTEND;TZID=Europe/Tallinn:20260311T124500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260415T120000
 SUMMARY:Kirj
-DESCRIPTION:Tund: Kirj\nÕpetaja: Ruub\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: Kirj\nÕpetaja: Ruub\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:103E
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-2-5-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260311T131000
 DTEND;TZID=Europe/Tallinn:20260311T135500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260415T131000
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Meig\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Meig\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:304M
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-2-6-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260311T140500
 DTEND;TZID=Europe/Tallinn:20260311T145000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260415T140500
 SUMMARY:Liik
-DESCRIPTION:Tund: .Liik\nÕpetaja: Kari\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: .Liik\nÕpetaja: Kari\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-2-7-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260311T150000
 DTEND;TZID=Europe/Tallinn:20260311T154500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260415T150000
 SUMMARY:Liik
-DESCRIPTION:Tund: .Liik\nÕpetaja: Kari\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: .Liik\nÕpetaja: Kari\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-3-0-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260312T080000
 DTEND;TZID=Europe/Tallinn:20260312T084500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260416T080000
 SUMMARY:Koor
-DESCRIPTION:Tund: .Koor\nÕpetaja: Aade\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: .Koor\nÕpetaja: Aade\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:230A
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-3-0-1
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260312T080000
 DTEND;TZID=Europe/Tallinn:20260312T084500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260416T080000
 SUMMARY:Koor
-DESCRIPTION:Tund: Koor\nÕpetaja: OjaE\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: Koor\nÕpetaja: OjaE\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:202M
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-3-1-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260312T090000
 DTEND;TZID=Europe/Tallinn:20260312T094500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260416T090000
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Meig\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Meig\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:304M
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-3-2-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260312T095500
 DTEND;TZID=Europe/Tallinn:20260312T104000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260416T095500
 SUMMARY:Kirj
-DESCRIPTION:Tund: Kirj\nÕpetaja: Ruub\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: Kirj\nÕpetaja: Ruub\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:102E
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-3-3-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260312T105000
 DTEND;TZID=Europe/Tallinn:20260312T113500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260416T105000
 SUMMARY:Filo
-DESCRIPTION:Tund: Filo\nÕpetaja: Peve\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: Filo\nÕpetaja: Peve\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:101E
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-3-4-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260312T120000
 DTEND;TZID=Europe/Tallinn:20260312T124500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260416T120000
 SUMMARY:InK
-DESCRIPTION:Tund: *InK\nÕpetaja: Rata\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *InK\nÕpetaja: Rata\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:209I
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-3-5-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260312T131000
 DTEND;TZID=Europe/Tallinn:20260312T135500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260416T131000
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Meig\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Meig\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:304M
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-3-6-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260312T140500
 DTEND;TZID=Europe/Tallinn:20260312T145000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260416T140500
 SUMMARY:SoK1
-DESCRIPTION:Tund: .*SoK1\nÕpetaja: Yall\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: .*SoK1\nÕpetaja: Yall\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:211I
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-3-6-1
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260312T140500
 DTEND;TZID=Europe/Tallinn:20260312T145000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260416T140500
 SUMMARY:SoK2
-DESCRIPTION:Tund: *SoK2\nÕpetaja: Jaak\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *SoK2\nÕpetaja: Jaak\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:107I
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-3-7-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260312T150000
 DTEND;TZID=Europe/Tallinn:20260312T154500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260416T150000
 SUMMARY:SoK1
-DESCRIPTION:Tund: .*SoK1\nÕpetaja: Yall\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: .*SoK1\nÕpetaja: Yall\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:211I
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-3-7-1
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260312T150000
 DTEND;TZID=Europe/Tallinn:20260312T154500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260416T150000
 SUMMARY:SoK2
-DESCRIPTION:Tund: *SoK2\nÕpetaja: Jaak\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *SoK2\nÕpetaja: Jaak\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:107I
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-4-0-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260313T080000
 DTEND;TZID=Europe/Tallinn:20260313T084500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260417T080000
 SUMMARY:SaK
-DESCRIPTION:Tund: .*SaK\nÕpetaja: Popo\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: .*SaK\nÕpetaja: Popo\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:109V
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-4-0-1
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260313T080000
 DTEND;TZID=Europe/Tallinn:20260313T084500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260417T080000
 SUMMARY:HiK1
-DESCRIPTION:Tund: *HiK1\nÕpetaja: Ramo\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *HiK1\nÕpetaja: Ramo\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:206G
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-4-0-2
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260313T080000
 DTEND;TZID=Europe/Tallinn:20260313T084500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260417T080000
 SUMMARY:HiK2
-DESCRIPTION:Tund: *HiK2\nÕpetaja: Amor\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *HiK2\nÕpetaja: Amor\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:101E
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-4-1-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260313T090000
 DTEND;TZID=Europe/Tallinn:20260313T094500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260417T090000
 SUMMARY:SaK
-DESCRIPTION:Tund: .*SaK\nÕpetaja: Popo\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: .*SaK\nÕpetaja: Popo\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:109V
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-4-1-1
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260313T090000
 DTEND;TZID=Europe/Tallinn:20260313T094500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260417T090000
 SUMMARY:HiK1
-DESCRIPTION:Tund: *HiK1\nÕpetaja: Ramo\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *HiK1\nÕpetaja: Ramo\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:206G
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-4-1-2
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260313T090000
 DTEND;TZID=Europe/Tallinn:20260313T094500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260417T090000
 SUMMARY:HiK2
-DESCRIPTION:Tund: *HiK2\nÕpetaja: Amor\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *HiK2\nÕpetaja: Amor\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:101E
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-4-2-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260313T095500
 DTEND;TZID=Europe/Tallinn:20260313T104000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260417T095500
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Meig\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Meig\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:304M
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-4-3-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260313T105000
 DTEND;TZID=Europe/Tallinn:20260313T113500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260417T105000
 SUMMARY:Füü
-DESCRIPTION:Tund: *Füü\nÕpetaja: Rand\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *Füü\nÕpetaja: Rand\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:307F
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-4-4-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260313T120000
 DTEND;TZID=Europe/Tallinn:20260313T124500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260417T120000
 SUMMARY:Aja
-DESCRIPTION:Tund: *Aja\nÕpetaja: Vent\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *Aja\nÕpetaja: Vent\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:204A
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-4-5-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260313T131000
 DTEND;TZID=Europe/Tallinn:20260313T135500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260417T131000
 SUMMARY:Kuns
-DESCRIPTION:Tund: *Kuns\nÕpetaja: Jung\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: *Kuns\nÕpetaja: Jung\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:309K
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-4-6-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260313T140500
 DTEND;TZID=Europe/Tallinn:20260313T145000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260417T140500
 SUMMARY:Liik
-DESCRIPTION:Tund: Liik\nÕpetaja: Saks\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: Liik\nÕpetaja: Saks\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-4-7-0
-DTSTAMP;TZID=Europe/Tallinn:20260306T145800
+DTSTAMP;TZID=Europe/Tallinn:20260313T145200
 DTSTART;TZID=Europe/Tallinn:20260313T150000
 DTEND;TZID=Europe/Tallinn:20260313T154500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260417T150000
 SUMMARY:Liik
-DESCRIPTION:Tund: Liik\nÕpetaja: Saks\nInfo seisuga: 6.3.2026, 14:58:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
+DESCRIPTION:Tund: Liik\nÕpetaja: Saks\nInfo seisuga: 13.3.2026, 14:52:00\nhttps://tyhg.edu.ee/tunniplaan/index_11C.htm
 LOCATION:
 URL:https://tyhg.edu.ee/tunniplaan/index_11C.htm
 END:VEVENT
