@@ -5,121 +5,121 @@ X-WR-CALNAME:TÜG 8S
 X-WR-TIMEZONE:Europe/Tallinn
 BEGIN:VEVENT
 UID:tri-3-day-0-3-0
-DTSTAMP;TZID=Europe/Tallinn:20260316T144100
+DTSTAMP;TZID=Europe/Tallinn:20260410T144300
 DTSTART;TZID=Europe/Tallinn:20260309T110500
 DTEND;TZID=Europe/Tallinn:20260309T115000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260413T110500
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Egle\nInfo seisuga: 16.3.2026, 14:41:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Egle\nInfo seisuga: 10.4.2026, 14:43:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:303M
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-0-4-0
-DTSTAMP;TZID=Europe/Tallinn:20260316T144100
+DTSTAMP;TZID=Europe/Tallinn:20260410T144300
 DTSTART;TZID=Europe/Tallinn:20260309T121500
 DTEND;TZID=Europe/Tallinn:20260309T130000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260413T121500
 SUMMARY:EeK
-DESCRIPTION:Tund: EeK\nÕpetaja: Tatr\nInfo seisuga: 16.3.2026, 14:41:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: EeK\nÕpetaja: Tatr\nInfo seisuga: 10.4.2026, 14:43:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:101E
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-0-5-0
-DTSTAMP;TZID=Europe/Tallinn:20260316T144100
+DTSTAMP;TZID=Europe/Tallinn:20260410T144300
 DTSTART;TZID=Europe/Tallinn:20260309T131000
 DTEND;TZID=Europe/Tallinn:20260309T135500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260413T131000
 SUMMARY:Aja
-DESCRIPTION:Tund: *Aja\nÕpetaja: Tiik\nInfo seisuga: 16.3.2026, 14:41:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: *Aja\nÕpetaja: Tiik\nInfo seisuga: 10.4.2026, 14:43:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:205A
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-4-0
-DTSTAMP;TZID=Europe/Tallinn:20260316T144100
+DTSTAMP;TZID=Europe/Tallinn:20260410T144300
 DTSTART;TZID=Europe/Tallinn:20260310T121500
 DTEND;TZID=Europe/Tallinn:20260310T130000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T121500
 SUMMARY:Geo
-DESCRIPTION:Tund: Geo\nÕpetaja: SooE\nInfo seisuga: 16.3.2026, 14:41:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: Geo\nÕpetaja: SooE\nInfo seisuga: 10.4.2026, 14:43:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:206G
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-5-0
-DTSTAMP;TZID=Europe/Tallinn:20260316T144100
+DTSTAMP;TZID=Europe/Tallinn:20260410T144300
 DTSTART;TZID=Europe/Tallinn:20260310T131000
 DTEND;TZID=Europe/Tallinn:20260310T135500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T131000
 SUMMARY:Keem
-DESCRIPTION:Tund: *Keem\nÕpetaja: Saag\nInfo seisuga: 16.3.2026, 14:41:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: *Keem\nÕpetaja: Saag\nInfo seisuga: 10.4.2026, 14:43:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:207K
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-1-6-0
-DTSTAMP;TZID=Europe/Tallinn:20260316T144100
+DTSTAMP;TZID=Europe/Tallinn:20260410T144300
 DTSTART;TZID=Europe/Tallinn:20260310T140500
 DTEND;TZID=Europe/Tallinn:20260310T145000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260414T140500
 SUMMARY:Bio
-DESCRIPTION:Tund: *Bio\nÕpetaja: Root\nInfo seisuga: 16.3.2026, 14:41:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: *Bio\nÕpetaja: Root\nInfo seisuga: 10.4.2026, 14:43:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:105B
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-2-3-0
-DTSTAMP;TZID=Europe/Tallinn:20260316T144100
+DTSTAMP;TZID=Europe/Tallinn:20260410T144300
 DTSTART;TZID=Europe/Tallinn:20260311T110500
 DTEND;TZID=Europe/Tallinn:20260311T115000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260415T110500
 SUMMARY:Mate
-DESCRIPTION:Tund: *Mate\nÕpetaja: Egle\nInfo seisuga: 16.3.2026, 14:41:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: *Mate\nÕpetaja: Egle\nInfo seisuga: 10.4.2026, 14:43:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:303M
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-2-4-0
-DTSTAMP;TZID=Europe/Tallinn:20260316T144100
+DTSTAMP;TZID=Europe/Tallinn:20260410T144300
 DTSTART;TZID=Europe/Tallinn:20260311T121500
 DTEND;TZID=Europe/Tallinn:20260311T130000
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260415T121500
 SUMMARY:EeK
-DESCRIPTION:Tund: EeK\nÕpetaja: Tatr\nInfo seisuga: 16.3.2026, 14:41:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: EeK\nÕpetaja: Tatr\nInfo seisuga: 10.4.2026, 14:43:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:101E
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-3-5-0
-DTSTAMP;TZID=Europe/Tallinn:20260316T144100
+DTSTAMP;TZID=Europe/Tallinn:20260410T144300
 DTSTART;TZID=Europe/Tallinn:20260312T131000
 DTEND;TZID=Europe/Tallinn:20260312T135500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260416T131000
 SUMMARY:Füü
-DESCRIPTION:Tund: Füü\nÕpetaja: Tart\nInfo seisuga: 16.3.2026, 14:41:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: Füü\nÕpetaja: Tart\nInfo seisuga: 10.4.2026, 14:43:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:107I
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:tri-3-day-4-5-0
-DTSTAMP;TZID=Europe/Tallinn:20260316T144100
+DTSTAMP;TZID=Europe/Tallinn:20260410T144300
 DTSTART;TZID=Europe/Tallinn:20260313T131000
 DTEND;TZID=Europe/Tallinn:20260313T135500
 RRULE:FREQ=WEEKLY;UNTIL=20260609T235959
 EXDATE;TZID=Europe/Tallinn:20260417T131000
 SUMMARY:SoK
-DESCRIPTION:Tund: *SoK\nÕpetaja: Männ\nInfo seisuga: 16.3.2026, 14:41:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
+DESCRIPTION:Tund: *SoK\nÕpetaja: Männ\nInfo seisuga: 10.4.2026, 14:43:00\nhttps://tyhg.edu.ee/tunniplaan/index_8S.htm
 LOCATION:213A
 URL:https://tyhg.edu.ee/tunniplaan/index_8S.htm
 END:VEVENT
